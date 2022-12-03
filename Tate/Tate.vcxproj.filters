@@ -1,0 +1,166 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Tate.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Calendar.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="BoutonCreneau.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="btnChangementSemaine.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="btnHeure.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="MenuBtn.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="btnObjectif.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="btnTache.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="btnUpdate.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="creaneau.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Day.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="labelObjectif.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Menu.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="objectif.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Tab.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="CalendarTab.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="ongletObjectif.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="tache.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="week.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="DayBtn.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="DailyTaskWindow.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="DailyTask.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="TopWindow.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Sources">
+      <UniqueIdentifier>{34b96ab1-fa35-4e54-83f9-2edaf155493b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Headers">
+      <UniqueIdentifier>{714ba378-4ffd-41a3-8e94-04417a69cebd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Qt">
+      <UniqueIdentifier>{7814b5f8-a851-4cc0-a67d-7965c5c8ef2a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <QtMoc Include="Tate.h">
+      <Filter>Headers</Filter>
+    </QtMoc>
+    <QtMoc Include="Calendar.h">
+      <Filter>Headers</Filter>
+    </QtMoc>
+    <QtMoc Include="CalendarTab.h">
+      <Filter>Headers</Filter>
+    </QtMoc>
+    <QtMoc Include="btnTache.h">
+      <Filter>Headers</Filter>
+    </QtMoc>
+    <QtMoc Include="btnUpdate.h">
+      <Filter>Headers</Filter>
+    </QtMoc>
+    <QtMoc Include="btnChangementSemaine.h">
+      <Filter>Headers</Filter>
+    </QtMoc>
+    <QtMoc Include="BoutonCreneau.h">
+      <Filter>Headers</Filter>
+    </QtMoc>
+    <QtMoc Include="Menu.h">
+      <Filter>Headers</Filter>
+    </QtMoc>
+    <QtMoc Include="MenuBtn.h">
+      <Filter>Headers</Filter>
+    </QtMoc>
+    <QtMoc Include="btnObjectif.h">
+      <Filter>Headers</Filter>
+    </QtMoc>
+    <QtMoc Include="ongletObjectif.h">
+      <Filter>Headers</Filter>
+    </QtMoc>
+    <QtMoc Include="labelObjectif.h">
+      <Filter>Headers</Filter>
+    </QtMoc>
+    <QtMoc Include="btnHeure.h">
+      <Filter>Headers</Filter>
+    </QtMoc>
+    <QtMoc Include="DayBtn.h">
+      <Filter>Headers</Filter>
+    </QtMoc>
+    <QtMoc Include="DailyTaskWindow.h">
+      <Filter>Headers</Filter>
+    </QtMoc>
+    <QtMoc Include="TopWindow.h">
+      <Filter>Headers</Filter>
+    </QtMoc>
+  </ItemGroup>
+  <ItemGroup>
+    <QtUic Include="Tate.ui">
+      <Filter>Qt</Filter>
+    </QtUic>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="week.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Day.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="creneau.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Tab.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="objectif.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="tache.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="DailyTask.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

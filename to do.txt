@@ -1,0 +1,11 @@
+- vérifiaction d'éntrée de date pour l'onglet objectif
+- pouvoir choisir la couleur d'une nouvelle tache
+-supprimer objectif
+-taches supprimées -> exeption levée initialisation des taches
+- couleur par default annulation
+-changement de semaine rapide -> bug d'affichage
+-bouton creneaux bordures de coté
+-implementer les painter
+-changer de placer les taches
+-definir taches maximum
+-supprimer objectif -> supprimer taches associés
